@@ -1,0 +1,12 @@
+# Credentials - NEVER commit
+secrets.h
+
+# Build / IDE
+build/
+*.bin
+*.elf
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*.docx
